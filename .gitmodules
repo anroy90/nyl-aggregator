@@ -1,0 +1,20 @@
+[submodule "modules/nyl-foundation"]
+	path = modules/nyl-foundation
+	url = https://github.com/anroy90/nyl-foundation.git
+	branch = main
+[submodule "modules/nylcom"]
+	path = modules/nylcom
+	url = https://github.com/anroy90/nylcom.git
+	branch = main
+[submodule "modules/nylim"]
+	path = modules/nylim
+	url = https://github.com/anroy90/nylim.git
+	branch = main
+[submodule "modules/nyl-shared"]
+	path = modules/nyl-shared
+	url = https://github.com/anroy90/nyl-shared.git
+	branch = main
+[submodule "modules/nyl-annuities"]
+	path = modules/nyl-annuities
+	url = https://github.com/anroy90/nyl-annuities.git
+	branch = main
